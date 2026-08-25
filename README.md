@@ -22,5 +22,6 @@ Product Profitability: Identified top-selling product categories and sub-categor
 
 Interactive Filters: Enabled drill-downs by date ranges, regions, and customer segments.
 📷 Dashboard Preview
-![Dashboard Preview](image-link-here)
+<img width="1410" height="755" alt="image" src="https://github.com/user-attachments/assets/e2a1b2b0-a943-497f-976f-68f1d4c0c72f" />
+
 

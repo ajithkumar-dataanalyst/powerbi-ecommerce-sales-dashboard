@@ -24,8 +24,3 @@ Interactive Filters: Enabled drill-downs by date ranges, regions, and customer s
 
 📷 Dashboard Preview
 ![Dashboard Preview](image-link-here)
-
-
-
-
-
